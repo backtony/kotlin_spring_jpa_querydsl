@@ -222,3 +222,11 @@ class Book(
 }
 ```
 
+<Br>
+
+## 코틀린 정리
++ [변수](https://github.com/backtony/blog-code/issues/21)
++ [제어](https://github.com/backtony/blog-code/issues/22)
++ [클래스](https://github.com/backtony/blog-code/issues/23)
++ [함수형 프로그래밍](https://github.com/backtony/blog-code/issues/24)
++ [기타 기능, scope function](https://github.com/backtony/blog-code/issues/25)
